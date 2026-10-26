@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Photo Library</title>
+</head>
+<body>
+    <h1>Photo Library</h1>
 
+    images/photo1.jpg
+    images/photo2.jpg
+    images/photo3.jpg
+</body>
+</html>
