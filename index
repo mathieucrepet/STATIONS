@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Photo Library</title>
+<title>My Photo Gallery</title>
+<style>
+body{
+font-family:Arial;
+text-align:center;
+background:#f5f5f5;
+}
+img{
+width:300px;
+margin:10px;
+border-radius:10px;
+box-shadow:0 0 5px gray;
+}
+</style>
 </head>
 <body>
-    <h1>Photo Library</h1>
+ 
+<h1>My Photo Gallery</h1>
+ 
+OTAKI-MAP-TEST.svg
 
-    images/photo1.jpg
-    images/photo2.jpg
-    images/photo3.jpg
+ 
 </body>
 </html>
